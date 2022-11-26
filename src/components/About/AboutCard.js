@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Seenu Nahak </span>
             from <span className="purple"> Odisha, India.</span>
-            <br />I am a currently pursuing BTech in Computer Science with Specialization in Software Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai.
+            <br />I am a currently pursuing B.Tech in Computer Science with Specialization in Software Engineering from SRM Institute of Science and Technology, Kattankulathur, Chennai.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
