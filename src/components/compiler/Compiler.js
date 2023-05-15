@@ -32,7 +32,7 @@ function Compiler() {
               isBlog={false}
               title="Project Report"
               description="This the project report for the Bash-C Compiler Project. It contains all the details about the project and the steps involved in the project."
-              ghLink="https://github.com/SeenuNahak/Project-Early-Diabetes-Detection.git"
+              ghLink="https://github.com/SeenuNahak/portfolio/blob/ca54356761fdf0b8bf30bc7feb7ee33219d57db1/src/Assets/CDREPORT.pdf"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -41,7 +41,7 @@ function Compiler() {
               isBlog={false}
               title="Lab Experiments"
               description="This file contains all the lab experiments performed during the course of the subject compiler design. It contains all the programs and their outputs."
-              ghLink="https://github.com/SeenuNahak/Project-Early-Diabetes-Detection.git"
+              ghLink="https://github.com/SeenuNahak/portfolio/blob/ca54356761fdf0b8bf30bc7feb7ee33219d57db1/src/Assets/CDREPORT.pdf"
             />
           </Col>
           
