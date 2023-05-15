@@ -88,7 +88,7 @@ function NavBar() {
                 to="/compiler"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineFundProjectionScreen style={{ marginBottom: "2px" } /> Compiler Design
+                <AiOutlineFundProjectionScreen style={{ marginBottom: "2px" }} /> Compiler Design
               </Nav.Link>
             </Nav.Item>
 
