@@ -19,7 +19,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={compiler}
+              imgPath={bitsOfCode}
               isBlog={false}
               title="Bash-C Compiler"
               description="This is my 6th semester project for Compiler Design Subject. A Bash to C compiler is a program that takes a Bash script as input and converts it into an equivalent C program. The resulting C program can then be compiled and executed on a variety of platforms, making it a more portable and efficient solution for shell scripting."
@@ -51,4 +51,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default Compiler;
