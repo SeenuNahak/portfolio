@@ -37,4 +37,4 @@ function ProjectCards(props) {
     </Card>
   );
 }
-export default ProjectCards;
+export default CompilerCards;
