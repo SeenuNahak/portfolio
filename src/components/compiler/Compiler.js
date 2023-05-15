@@ -2,8 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../Projects/ProjectCards";
 import Particle from "../Particle";
-import chatify from "../../Assets/Projects/chatify.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import report from "../../Assets/Projects/report.png";
+import labexp from "../../Assets/Projects/labexp.png";
 import compile from "../../Assets/Projects/compiler.png";
 function Compiler() {
   return (
@@ -28,7 +28,7 @@ function Compiler() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={report}
               isBlog={false}
               title="Project Report"
               description="This the project report for the Bash-C Compiler Project. It contains all the details about the project and the steps involved in the project."
@@ -37,7 +37,7 @@ function Compiler() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={labexp}
               isBlog={false}
               title="Lab Experiments"
               description="This file contains all the lab experiments performed during the course of the subject compiler design. It contains all the programs and their outputs."
