@@ -4,7 +4,7 @@ import ProjectCard from "../Projects/ProjectCards";
 import Particle from "../Particle";
 import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
-
+import compile from "../../Assets/Projects/compiler.png";
 function Compiler() {
   return (
     <Container fluid className="project-section">
@@ -19,7 +19,7 @@ function Compiler() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={compile}
               isBlog={false}
               title="Bash-C Compiler"
               description="This is my 6th semester project for Compiler Design Subject. A Bash to C compiler is a program that takes a Bash script as input and converts it into an equivalent C program. The resulting C program can then be compiled and executed on a variety of platforms, making it a more portable and efficient solution for shell scripting."
